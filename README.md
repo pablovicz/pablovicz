@@ -2,7 +2,7 @@
 
 I'm a **technical founder and product-driven engineer** focused on building **scalable platforms from the ground up**.
 
-As **CTO & Co-Founder of Conversu**, I designed and developed most of the core technology behind the platform — from the initial architecture and product validation to large-scale operational features used in real customer environments.
+As **Founder Engineer at Conversu**, I designed and developed most of the core technology behind the platform — from the initial architecture and product validation to large-scale operational features used in real customer environments.
 
 My work sits at the intersection of **product, engineering, and operations**, turning real operational problems into scalable software solutions.
 
